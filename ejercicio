@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solicitud de Corrección de Palabras en el Índice</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Solicitud de Corrección de Palabras en el Índice</h1>
+
+    <p>Estimado/a [Nombre del Receptor],</p>
+
+    <p>
+        Me gustaría solicitar una revisión y corrección de las palabras incluidas en el índice de nuestro documento/proyecto. 
+        He notado que algunas palabras pueden estar mal escritas o podrían no estar adecuadamente representadas en el contexto del contenido.
+    </p>
+
+    <p>A continuación, te detallo algunas observaciones específicas:</p>
+
+    <ul>
+        <li><strong>[mal echo]</strong> debería corregirse a <strong>[intenta con otra palabra mas acorde]</strong>.</li>
+        <li><strong>[groserias]</strong> se podría reemplazar con <strong>[palabra mas adecuada]</strong>.</li>
+        <li><strong>[palabras sin importyancia u de mal gusto ]</strong> podrían simplificarse o eliminarse.</li>
+    </ul>
+
+    <p>
+        Te agradecería mucho tu ayuda para garantizar que el índice sea preciso y refleje correctamente el contenido del documento.
+    </p>
+
+    <p>Quedo atento/a a cualquier consulta o comentario adicional.</p>
+
+    <p>Gracias de antemano por tu apoyo.</p>
+
+    <p>Atentamente,<br>johan gonzalez</p>
+
+</body>
+</html>
